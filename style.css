@@ -41,9 +41,3 @@
     box-shadow: 5px 10px #888888;
   }
 
-  .wrapper {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
-  }
